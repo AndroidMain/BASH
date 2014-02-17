@@ -2,11 +2,11 @@
 ==
 
 
-Никифоров Юрий [YrNiki](https://github.com/YrNiki)  - ТимЛид, выработка общего направления
+Никифоров Юрий [YrNiki](https://github.com/YrNiki)  - ТимЛид, выработка общего направления,
 
-Давыдов Теймураз [TimDV](https://github.com/TimDV) - Координатор, контроль версий
+Давыдов Теймураз [TimDV](https://github.com/TimDV) - Координатор, контроль версий,
 
-Алешин Алексей [krepver](https://github.com/krepver) - Советник, технические вопросы
+Алешин Алексей [krepver](https://github.com/krepver) - Советник, технические вопросы.
 
 ==
 
