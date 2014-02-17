@@ -31,6 +31,9 @@
 - <a href="http://git-scm.com/book/ru/">Git Book (на русском)</a>
 - <a href="http://cloud.github.com/downloads/GArik/progit/progit.ru.pdf">Скачать книгу ProGit</a>
 - <a href="http://habrahabr.ru/post/150673/">Статья авторов перевода на ХабраХабре</a>
-- 
+
+==
+
+### Дополнительно
 - <a href="http://githowto.com/ru">Хороший практический tuturial по git</a>
 - <a href="http://try.github.io/levels/1/challenges/1">Неплохое введение в игровой форме</a>
