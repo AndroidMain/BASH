@@ -10,5 +10,5 @@
 ==
 
 ### Прошлые задания
-- <a href="https://github.com/AndroidMain/BASH/blob/master/TaskWeek.md">пока нет истории :-)</a>
+- <a href="https://github.com/AndroidMain/BASH">пока нет истории :-)</a>
 
