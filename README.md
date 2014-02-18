@@ -15,6 +15,11 @@
 
 ==
 
+### Задачи
+- <a href="https://github.com/AndroidMain/BASH/blob/master/TaskWeek.md">на неделю</a>
+
+==
+
 ### Как создать аккаунт на гитхабе и создать первый проект в картинках 
 - <a href="https://www.dropbox.com/s/93pisye26r1t6xj/%D0%90%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%20GIT.rar"> архив</a>
 
