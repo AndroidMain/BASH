@@ -9,6 +9,13 @@
 
 ==
 
+### Подробно
+
+- <a href="https://github.com/AndroidMain/BASH/issues/1">лента комментариев и решений</a>
+
+==
+
 ### Прошлые задания
+
 - <a href="https://github.com/AndroidMain/BASH">пока нет истории :-)</a>
 
