@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="quotes">
+        <item>@string/quote_427003</item>
+        <item>@string/quote_427002</item>
+        <item>@string/quote_427000</item>
+        <item>@string/quote_426998</item>
+        <item>@string/quote_426997</item>
+        <item>@string/quote_426994</item>
+        <item>@string/quote_426985</item>
+        <item>@string/quote_426984</item>
+        <item>@string/quote_426982</item>
+        <item>@string/quote_426981</item>
+        <item>@string/quote_426980</item>
+    </array>
+</resources>
